@@ -1,2 +1,2 @@
 # Test_repo
-This is test repository
+this is for testing purpose.
